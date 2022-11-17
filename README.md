@@ -1,11 +1,7 @@
-# CapstoneSIADS699
+# @voila-dashboards/jupyterlab-preview
 
-Data set:https://www.consumerfinance.gov/data-research/consumer-complaints/
+A JupyterLab preview extension for Voilà.
 
+## Prerequisites
 
-# Code Structure: 
-Jupyter Notebook:
-- functions modules to import
-- EDA
-- ML 
-
+- JupyterLab 1.0+
