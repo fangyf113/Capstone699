@@ -1,0 +1,10 @@
+jupyterlab~=3.0
+bqplot
+scipy
+ipympl==0.9.2
+jupyterlab_miami_nights==0.3.2
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
